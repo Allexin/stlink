@@ -1,3 +1,6 @@
+Fork reason:
+Adding support for STM32 clones, like CS32VL
+
 Open source version of the STMicroelectronics Stlink Tools
 ==========================================================
 
